@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://leonardojacomussi.github.io/little-lemon",
+  "homepage": "https://github.com/DeoLukamba/Meta-Front-End-Developer-Professional-Certificate/tree/main/C8-Captone-Project/week-4/Little-Lemon-Restaurant-Project",
   "scripts": {
     "dev": "vite",
     "start": "vite",
